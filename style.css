@@ -1,0 +1,41 @@
+
+body {
+  background-color: rgb(236, 219, 219);
+  background-color: white;
+  text-transform: uppercase;
+  text-align: center;
+  b
+}
+main {
+
+   }
+  li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+main {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
