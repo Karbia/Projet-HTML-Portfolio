@@ -4,8 +4,9 @@ body {
   background-color: white;
   text-transform: uppercase;
   text-align: center;
-  b
-}
+  font-family: 'Roboto', sans-serif;
+ }
+
 main {
 
    }
@@ -13,8 +14,8 @@ main {
     float: left;
 }
 
-a {
-    display: block;
+body .nav  {
+    display: inline;
     padding: 8px;
     background-color: #dddddd;
 }
@@ -33,9 +34,37 @@ li {
 }
 
 li a {
-  display: block;
+  display: inline;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
+
+.contact a {
+  display:block
+  color: rgb(223, 210, 210);
+  padding: 14px 16px;
+  text-align:left;
+  
+}
+
+img {
+  margin-right: 55px;
+}
+  
+
+
+.information {
+  text-align: end;
+  margin-right: 15px;
+  
+}
+
+video {
+  width: 700px; 
+  height: 400px;
+}
+
+
+
